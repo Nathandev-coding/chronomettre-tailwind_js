@@ -24,6 +24,10 @@ Utilisation
 
 Cliquez sur "Démarrer" pour lancer le chronomètre.
 
+Contributions
+
+Les contributions sont les bienvenues ! N'hésitez pas à forker le projet et à proposer des améliorations.
+
 Cliquez sur "Pause" pour arrêter le chronomètre.
 
 Cliquez sur "Réinitialiser" pour remettre le chronomètre à zéro.
