@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+  </head>
+  <body>
+   <section class="flex justify-center items-center w-full min-h-screen bg-sky-500">
+    <div class="mx-auto px-8 py-8">
+        <div class="max-w-sm w-full mx-auto shadow-lg rounded-lg overflow-hidden bg-white ">
+            <div class="p-9 flex flex-col">
+                <div class="flex gap-4 border p-8 text-2xl font-bold  border-sky-400">
+                    <span>0 h</span>
+                    <span>0 min</span>
+                    <span>0 s</span>
+                    <span>0 ms</span>
+                </div>
+                <div class="mt-10 flex justify-between">
+                  <button class="bg-sky-500 py-2 px-6  rounded-md font-semibold hover:bg-sky-600 cursor-pointer duration-100">Start</button>
+                  <button class="bg-sky-500 py-2 px-6  rounded-md font-semibold  hover:bg-sky-600 cursor-pointer duration-100">Stop</button>
+                  <button class="bg-sky-500 py-2 px-6 rounded-md font-semibold  hover:bg-sky-600 cursor-pointer duration-100">Reset</button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+   </section>
+
+   <script src="script.js" defer></script>
+  </body>
+</html>
