@@ -19,3 +19,11 @@ HTML
 Tailwind CSS
 
 JavaScript
+
+Utilisation
+
+Cliquez sur "Démarrer" pour lancer le chronomètre.
+
+Cliquez sur "Pause" pour arrêter le chronomètre.
+
+Cliquez sur "Réinitialiser" pour remettre le chronomètre à zéro.
